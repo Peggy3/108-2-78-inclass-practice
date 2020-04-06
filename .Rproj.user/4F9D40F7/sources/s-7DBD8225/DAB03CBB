@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586146466978.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DAB03CBB",
+    "lastKnownWriteTime" : 7811882151162427184,
+    "last_content_update" : 1586146466978,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "69eb283d5b10472188ab16b2dede7c5b",
+        "name" : "commit",
+        "title" : "commit"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
